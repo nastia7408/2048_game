@@ -26,22 +26,22 @@ To run this project locally, follow these steps:
 1. **Clone the repository:**
 
    ```bash
-   git clone [https://github.com/nastia7408/2048_game]
+   git clone https://github.com/nastia7408/2048_game
    ```
 2. **Navigate to the project directory:**
 
-```bash
-cd 2048_game
-```
+  ```bash
+  cd 2048_game
+  ```
 
 3.**Install dependencies**:
 
-```bash
-npm i
-```
+  ```bash
+  npm i
+  ```
 
 4.**Start the local development server**:
 
-```bash
-npm start
-```
+  ```bash
+  npm start
+  ```
